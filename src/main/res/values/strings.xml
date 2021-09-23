@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DesafioAndroidWS</string>
+    <string name="name_app">List Repositórios</string>
+    <string name="texto_apresentativo">Nesta aplicação você pode ver quais os repositorios públicos de um usuário do GitHub. </string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="userName_hint">Nome do usuário</string>
+    <string name="imagem_usuario">Imagem de perfil do usuário no GitHub</string>
+    <string name="nome_usuario">Usuário</string>
+    <string name="nome_repositorio">Repositório</string>
+    <string name="detalhes">Visitar</string>
+    <string name="descricao_repositorio">Descrição</string>
+    <string name="todo">TODO</string>
+    <string name="descrição_btnVoltar">botão de voltar a tela principal</string>
+    <string name="sem_repositorios">Sem repositórios</string>
+    <string name="btn_paginacao">1</string>
+</resources>
